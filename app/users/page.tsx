@@ -1,3 +1,9 @@
-export default function users() {
-    <div><h1>I luv coding</h1></div>
+import React from 'react'
+
+const userapage = () => {
+  return (
+    <div>userapage</div>
+  )
 }
+
+export default userapage
